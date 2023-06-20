@@ -48,3 +48,4 @@ F19 29 3
 ## References
 
 - [Teacher's repo](https://github.com/sdelquin/pro/blob/main/ut4/te1/README.md)
+- [Project Partner](https://github.com/ElPayo)
